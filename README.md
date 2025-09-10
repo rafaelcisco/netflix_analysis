@@ -11,9 +11,6 @@ This project analyzes the Netflix Movies & TV Shows dataset to explore trends in
 2. Titles added per year
 3. Top countries producing content
 4. Most common genres
-5. Rating distribution
-6. Top directors and actors
-7. Duration analysis
 
 ## Tools Used
 - Python, pandas, matplotlib, seaborn
