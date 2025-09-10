@@ -1,4 +1,3 @@
-# netflix_analysis
 # Netflix Movies Analysis
 
 This project analyzes the Netflix Movies & TV Shows dataset to explore trends in content type, genres, countries, ratings, and more.
